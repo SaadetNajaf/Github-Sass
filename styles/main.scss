@@ -1,0 +1,28 @@
+//Googe Font
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400..900&display=swap');
+
+//Import
+@import './normalize';
+@import './formalize';
+@import './variables';
+@import './header';
+@import './content';
+@import './responsive';
+
+
+*{text-decoration: none;}
+
+body {
+  font-family: $body-font;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+
