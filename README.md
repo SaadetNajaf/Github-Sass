@@ -6,12 +6,22 @@ This is a responsive **GitHub Profile Page Clone**, built using **HTML**, **SCSS
 
 ## ⚙️ Features
 
-- ✅ **Fully Responsive Design** – Works seamlessly on mobile, tablet, and desktop  
-- ✅ **SVG Icon System** – Includes scalable GitHub-style icons  
-- ✅ **Pinned Repositories Section** – Stylish project cards with labels  
-- ✅ **Modern UI Layout** – Inspired by GitHub’s real interface  
-- ✅ **SCSS Modular Codebase** – Clean styling with variables and partials  
-- ✅ **Google Fonts Integration** – Using the “Maven Pro” font for elegant typography
+✅ **Fully Responsive Design**
+Works seamlessly on mobile, tablet, and desktop  
+
+✅ **SVG Icon System** – Includes scalable GitHub-style icons
+
+✅ **Pinned Repositories Section**
+Stylish project cards with labels
+
+✅ **Modern UI Layout**
+Inspired by GitHub’s real interface
+
+✅ **SCSS Modular Codebase**
+Clean styling with variables and partials
+
+✅ **Google Fonts Integration**
+Using the “Maven Pro” font for elegant typography
 
 ---
 
